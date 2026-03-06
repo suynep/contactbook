@@ -2,6 +2,9 @@
 
 > A basic Contact Management App. 
 
+## Demo
+
+![Demo](https://github.com/suynep/contactbook/blob/main/assets/demo.gif)
 
 ## Features
 - Work/Home Contact Info support
