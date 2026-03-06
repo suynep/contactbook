@@ -1,0 +1,1 @@
+enum Label { home, work }
