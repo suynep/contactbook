@@ -22,6 +22,7 @@
 - `InkWell` for buttons
 - `Navigator` and `MaterialPageRoute` for navigation
 - `Padding` for neat widget renders
+- `CircularAvatar` and `AssetImage` for contact details page
 
 
 ## Todos
